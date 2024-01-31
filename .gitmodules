@@ -1,0 +1,6 @@
+[submodule "Planner-App-FE"]
+	path = Planner-App-FE
+	url = https://github.com/bamirade/Planner-App-FE
+[submodule "Planner-App-BE"]
+	path = Planner-App-BE
+	url = https://github.com/bamirade/Planner-App-BE
